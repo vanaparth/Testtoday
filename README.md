@@ -1,2 +1,2 @@
 # Testtoday
-testing manual
+testing manual automation
